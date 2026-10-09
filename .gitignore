@@ -1,0 +1,32 @@
+# Riippuvuudet
+node_modules/
+
+# Tuotantoversion kansiot (Vite / React / muut bundlerit)
+dist/
+build/
+
+# Ympäristömuuttujat ja salaisuudet
+.env
+.env.local
+.env.*.local
+
+# Lokitiedostot
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Käyttöjärjestelmän roskatiedostot
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Koodieditorien asetukset (valinnainen)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+Selainohjelmointi_teoria

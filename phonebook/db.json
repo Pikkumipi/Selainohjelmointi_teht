@@ -1,0 +1,45 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "43434343",
+      "id": "afkBHgcCJUQ"
+    },
+    {
+      "name": "ai",
+      "number": "543",
+      "id": "qyfHo_kEP2w"
+    },
+    {
+      "name": "ikke",
+      "number": "349090",
+      "id": "U72nxoN5ZUM"
+    },
+    {
+      "name": "milja",
+      "number": "95047654",
+      "id": "v7RENpaN0rU"
+    },
+    {
+      "name": "MILJA",
+      "number": "53",
+      "id": "cwWZuo7V6LI"
+    },
+    {
+      "name": "mette",
+      "number": "9393392",
+      "id": "Gf85gBzo9Js"
+    },
+    {
+      "name": "yak",
+      "number": "3290",
+      "id": "hB9Pu7791yM"
+    },
+    {
+      "name": "refa",
+      "number": "049387",
+      "id": "DC8-ygSyepE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

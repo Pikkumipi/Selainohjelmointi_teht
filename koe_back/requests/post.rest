@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/candidates
+Content-type:application/json
+
+{
+    "id":1,
+    "name":"Meitsi Meikä",
+    "party":"The Greens",
+    "votes":564
+}
